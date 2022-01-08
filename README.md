@@ -2,7 +2,7 @@
 
 **Goal:** To create a mock website using Bootstrap. 
 
-I started working on this project because I wanted to increase my experience using Bootstrap, an amazing library for Web Development. I started out with just one webpage, the index.html, but, soon, I had four other pages and was creating a full-on mock website for a business/ company. This entire project took me about a week and about half of it was spent on organizing the bootstrap elements into websites and the other half was spent on styling using components provided by Bootstrap. 
+I started working on this project because I wanted to increase my experience using Bootstrap, an amazing library for Web Development. I started out with just one webpage, the index.html, but, soon, I had four other pages and was creating a full-on mock website for a business/ company. This entire project took me about a week and about half of it was spent on organizing the bootstrap elements into websites and the other half was spent on styling using components provided by Bootstrap. I tried to make each webpage as responsive as possibe, meaning the different HTML elements will change depending on screen size and the level of zoom. This is to make sure that this project is uniform across all devices. 
 
 ### Checklist
 
