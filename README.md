@@ -1,3 +1,7 @@
+To check out the final version of this project, visit: [Mock-Bootstrap-Website](https://sarund.github.io/Mock-Bootstrap-Website/)
+
+---
+
 # Mock-Bootstrap-Website
 
 **Goal:** To create a mock website using Bootstrap. 
